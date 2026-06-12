@@ -3,7 +3,9 @@
 **My very first mini-project** — Built during Oct 2024 – Dec 2024 (1st semester) at **P.A. College of Engineering, Mangalore**.
 
 An assistive device designed to help visually impaired people detect obstacles using sound feedback.
-<img width="1280" height="449" alt="image" src="https://github.com/user-attachments/assets/57a20d24-abe0-4955-8805-748aaefa26a9" />
+
+
+<img width="1000" height="449" alt="image" src="https://github.com/user-attachments/assets/57a20d24-abe0-4955-8805-748aaefa26a9" />
 
 ## 🎯 Project Overview
 
