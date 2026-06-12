@@ -39,16 +39,10 @@ I was really nervous when I started this project. It was my first time working w
 
 This experience taught me the basics of embedded systems, sensor integration, and how small hardware projects can make a real difference in people's lives. It was a great starting point that sparked my interest in IoT and hardware + software integration, while also showing me that it’s okay to be nervous in the beginning — what matters is not giving up and learning step by step.
 
-## 📸 Project Photos
-
-*(Add 3–5 images here — circuit setup, components, working demo, etc.)*
-
 ## 🔗 Links
 
-- **Full Project Report**: [Smart Blind Stick Report.pdf](Smart%20Blind%20Stick.pdf)
-- LinkedIn Post: [Add link once posted]
+- **Full Project Report**: [Smart Blind Stick Report.pdf](https://drive.google.com/file/d/1KpfejVxb6fcqtGjCojjcml65vxdxnR9b/view?usp=drivesdk)
 - College: P.A. College of Engineering, Mangalore
 
 ---
 
-**Made with ❤️ by Mohammed Affan**
