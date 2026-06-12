@@ -3,9 +3,8 @@
 **My very first mini-project** — Built during Oct 2024 – Dec 2024 (1st semester) at **P.A. College of Engineering, Mangalore**.
 
 An assistive device designed to help visually impaired people detect obstacles using sound feedback.
-<p align="center>
-<img width="350" height="449" alt="WhatsApp Image 2026-06-12 at 11 45 25 PM" src="https://github.com/user-attachments/assets/da22dddf-c2ca-4ec6-8a95-678688563335" />
-</p>
+
+<img width="350" height="449" alt="WhatsApp Image 2026-06-12 at 11 45 25 PM" src="https://github.com/user-attachments/assets/da22dddf-c2ca-4ec6-8a95-678688563335" 
 ## 🎯 Project Overview
 
 This was a simple yet meaningful hardware project that uses an ultrasonic sensor to detect nearby obstacles and alerts the user through a buzzer with varying tones based on distance.
